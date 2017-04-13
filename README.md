@@ -15,7 +15,7 @@ To control wall sockets blocks [ABB EN20-20 GHE3221101R0006](http://new.abb.com/
 
 To connect Siemens LOGO! with smart home servers like Home assistant, Majardomo and so on I use MQTT server and simple python polling application.
 
-Home assistamt configuration example:
+Home assistant configuration example:
 ```
 light:
   - platform: mqtt
